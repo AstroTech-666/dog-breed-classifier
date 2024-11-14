@@ -67,7 +67,18 @@ Make sure you have the following installed:
 - Implement a mobile version of the application for greater accessibility.
 
 ## Website
-[Dog Breed Classifier Website]()
+
+To run the Dog Breed Classifier locally:
+
+1. Run the app:
+
+   ```bash
+   python app.py
+2. Visit the website at:
+   
+   ```bash
+   (http://127.0.0.1:5000)
+   
 
 ## Author
 Developed by **Farzana**  
