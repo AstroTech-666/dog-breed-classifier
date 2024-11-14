@@ -77,8 +77,7 @@ To run the Dog Breed Classifier locally:
 2. Visit the website at:
    
    ```bash
-   (http://127.0.0.1:5000)
-   
+   http://127.0.0.1:5000
 
 ## Author
 Developed by **Farzana**  
