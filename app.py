@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 import os
-from classifier import classifier  # Import your classifier function
+from data.classifier import classifier  # Correct import statement
 
 app = Flask(__name__)
 
